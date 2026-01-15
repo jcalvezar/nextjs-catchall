@@ -1,14 +1,12 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-![Project Image](assets/New%20Project.png)
-
-<div style="display: flex; gap: 2rem; align-items: center; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px;">
-    <img src="assets/New%20Project.png" width="100%"/>
+<div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap;">
+  <div style="flex: 0 0 40%; min-width: 280px;">
+    <img src="assets/New%20Project.png" width="100%" alt="Demo">
   </div>
-  <div style="flex: 1.5; min-width: 300px;">
+  <div style="flex: 1; min-width: 300px;">
     <h2>¡Mira qué genial!</h2>
-    <p>Todo el texto que quieras aquí a la derecha.</p>
+    <p>Todo el texto que quieras aquí a la derecha. Funciona muy bien en móvil también.</p>
   </div>
 </div>
 
