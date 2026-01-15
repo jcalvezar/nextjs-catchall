@@ -1,14 +1,23 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-<div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap;">
-  <div style="flex: 0 0 40%; min-width: 280px;">
-    <img src="assets/New%20Project.png" width="100%" alt="Demo">
-  </div>
-  <div style="flex: 1; min-width: 300px;">
-    <h2>¡Mira qué genial!</h2>
-    <p>Todo el texto que quieras aquí a la derecha. Funciona muy bien en móvil también.</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="40%">
+      <img src="assets/New%20Project.png" width="100%" alt="Captura de la app">
+    </td>
+    <td width="60%">
+      <h3>¡Mira qué genial!</h3>
+      <p>
+        Todo el texto que quieras aquí a la derecha.<br>
+        Puede ser más largo, con listas, enlaces, lo que necesites.
+      </p>
+      <ul>
+        <li>🚀 Punto importante 1</li>
+        <li>✨ Característica genial</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Getting Started
 
