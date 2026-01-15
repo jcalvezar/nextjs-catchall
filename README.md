@@ -2,8 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 <div style="display: flex; gap: 2.5rem; align-items: flex-start; flex-wrap: wrap; margin: 1.5rem 0;">
   <!-- Imagen a la izquierda -->
-  <div style="flex: 0 0 40%; max-width: 280px;">
-    <img src="assets/New%20Project.png" width="100%" alt="Captura de la app">
+  <div style="flex: 0 0 40%; width: 200px;">
+    <img src="assets/New%20Project.png"  alt="Captura de la app">
   </div>
   
   <!-- Texto a la derecha -->
