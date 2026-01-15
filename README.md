@@ -1,8 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
 <p>
   <img src="assets/New%20Project.png" width="380" align="left" style="margin-right: 30px; margin-bottom: 20px;" alt="Captura de la app">
-  <h3>¡Mira qué genial!</h3>
+  <h3>Next.JS Catch All test</h3>
   <p>
     Todo el texto que quieras aquí a la derecha.<br>
     Puede ser más largo, con listas, enlaces, etc.<br><br>
