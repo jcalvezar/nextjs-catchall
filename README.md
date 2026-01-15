@@ -20,6 +20,18 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
   </div>
 </div>
 
+<div style="display: flex; gap: 30px; align-items: flex-start; flex-wrap: wrap;">
+  <img src="assets/New%20Project.png" width="40%" alt="Captura de la app" style="min-width: 280px;">
+  <div style="flex: 1;">
+    <h3>¡Mira qué genial!</h3>
+    <p>Tu descripción aquí...</p>
+    <ul>
+      <li>🚀 Punto 1</li>
+      <li>✨ Punto 2</li>
+    </ul>
+  </div>
+</div>
+
 ## Getting Started
 
 First, run the development server:
