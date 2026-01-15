@@ -1,56 +1,21 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-<div style="display: flex; gap: 2.5rem; align-items: flex-start; flex-wrap: wrap; margin: 1.5rem 0;">
-  <!-- Imagen a la izquierda -->
-  <div style="flex: 0 0 40%; width: 200px;">
-    <img src="assets/New%20Project.png"  alt="Captura de la app">
-  </div>
-  
-  <!-- Texto a la derecha -->
-  <div style="flex: 1; min-width: 300px;">
-    <h3>¡Mira qué genial!</h3>
-    <p>
-      Todo el texto que quieras aquí a la derecha.<br>
-      Puede ser más largo, con listas, enlaces, badges, lo que necesites.
-    </p>
-    <ul>
-      <li>🚀 Punto importante 1</li>
-      <li>✨ Característica genial</li>
-    </ul>
-  </div>
-</div>
+<p>
+  <img src="assets/New%20Project.png" width="380" align="left" style="margin-right: 30px; margin-bottom: 20px;" alt="Captura de la app">
+  <h3>¡Mira qué genial!</h3>
+  <p>
+    Todo el texto que quieras aquí a la derecha.<br>
+    Puede ser más largo, con listas, enlaces, etc.<br><br>
+    El texto ahora fluye al lado de la imagen (si la pantalla es lo suficientemente ancha).
+  </p>
+  <ul>
+    <li>🚀 Punto importante 1</li>
+    <li>✨ Característica genial</li>
+  </ul>
+</p>
 
-<div style="display: flex; gap: 30px; align-items: flex-start; flex-wrap: wrap;">
-  <img src="assets/New%20Project.png" width="40%" alt="Captura de la app" style="min-width: 280px;">
-  <div style="flex: 1;">
-    <h3>¡Mira qué genial!</h3>
-    <p>Tu descripción aquí...</p>
-    <ul>
-      <li>🚀 Punto 1</li>
-      <li>✨ Punto 2</li>
-    </ul>
-  </div>
-</div>
-
-<div style="display: flex; gap: 30px; align-items: flex-start; flex-wrap: wrap; margin: 20px 0;">
-  <!-- Columna de la imagen - con ancho máximo controlado -->
-  <div style="flex: 0 0 auto; max-width: 400px;">
-    <img src="assets/New%20Project.png" width="400" alt="Captura de la app" style="display: block;">
-  </div>
-  
-  <!-- Columna del texto - ocupa el resto -->
-  <div style="flex: 1; min-width: 300px;">
-    <h3>¡Mira qué genial!</h3>
-    <p>
-      Todo el texto que quieras aquí a la derecha.<br>
-      Puede ser más largo, con listas, enlaces, etc.
-    </p>
-    <ul>
-      <li>🚀 Punto importante 1</li>
-      <li>✨ Característica genial</li>
-    </ul>
-  </div>
-</div>
+<!-- Limpiar el float para que el resto del contenido no quede afectado -->
+<br clear="left">
 
 ## Getting Started
 
